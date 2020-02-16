@@ -3,14 +3,16 @@ Chronophylos
 v1.0, 2020-02-16
 :toc:
 
-This is a list of all the rust books I could find. With rust book I mean books in the style of The Book.
+This is a list of all the rust books I could find. With rust book I mean books
+in the style of The Book.
 
 == Tutorials
 
 === Official
 
 link:https://doc.rust-lang.org/stable/book[The Book]::
-    This is _The Book_ of The Rust Programming Language. A really good introduction to Rust.
+    This is _The Book_ of The Rust Programming Language. A really good
+    introduction to Rust.
 
 === Community Created
 
@@ -33,13 +35,20 @@ link:https://doc.rust-lang.org/stable/rust-by-example[Rust By Example]::
     A Rust reference with lots of examples.
 
 link:https://doc.rust-lang.org/edition-guide[The Edition Guide]::
-    Everything about Editions, including their differences and how to migrate to another.
+    Everything about Editions, including their differences and how to migrate
+    to another.
 
 
 == Language Features
 
+Books on specific language features.
+
 link:https://doc.rust-lang.org/stable/nomicon[The Rustonomicon]::
     _The Dark Arts of Unsafe Rust_ everything about `unsafe`.
+
+link:https://danielkeep.github.io/tlborm/book[The Little Book of Rust Macros]::
+    *_(Last updated in 2016 and probably out of date)_*
+    About Macros.
 
 
 == The Rust Platform
@@ -57,6 +66,8 @@ link:https://doc.rust-lang.org/error-index.html[Rust Compiler Error Index]::
 
 
 == Crates
+
+Books about crates and libraries as well as their documentation.
 
 link:https://doc.rust-lang.org/stable/cargo[The Cargo Book]::
     Everything about Cargo.
