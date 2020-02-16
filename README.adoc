@@ -1,0 +1,65 @@
+= A Collection of Rust Books
+Chronophylos
+v1.0, 2020-02-16
+:toc:
+
+This is a list of all the rust books I could find. With rust book I mean books in the style of The Book.
+
+== Tutorials
+
+=== Official
+
+link:https://doc.rust-lang.org/stable/book[The Book]::
+    This is _The Book_ of The Rust Programming Language. A really good introduction to Rust.
+
+=== Community Created
+
+link:https://rust-cli.github.io/book[Command Line Applications in Rust]::
+    How to write CLI Apps in Rust.
+
+link:https://rust-embedded.github.io/book[The Embedded Rust Book]::
+    Rust in embedded systems.
+
+link:https://rustwasm.github.io/docs/book[Rust and WebAssembly]::
+    Rust and WebAssembly.
+
+
+== General
+
+link:https://doc.rust-lang.org/stable/reference[The Rust Reference]::
+    The primary reference for Rust.
+
+link:https://doc.rust-lang.org/stable/rust-by-example[Rust By Example]::
+    A Rust reference with lots of examples.
+
+link:https://doc.rust-lang.org/edition-guide[The Edition Guide]::
+    Everything about Editions, including their differences and how to migrate to another.
+
+
+== Language Features
+
+link:https://doc.rust-lang.org/stable/nomicon[The Rustonomicon]::
+    _The Dark Arts of Unsafe Rust_ everything about `unsafe`.
+
+
+== The Rust Platform
+
+Books on how to use different tools.
+
+link:https://doc.rust-lang.org/stable/rustdoc[rustdoc]::
+    How to write documentation and use `rustdoc`.
+
+link:https://doc.rust-lang.org/stable/rustc[rustc]::
+    The Rust Compiler.
+
+link:https://doc.rust-lang.org/error-index.html[Rust Compiler Error Index]::
+    A list of all the Errors the Compiler can give you.
+
+
+== Crates
+
+link:https://doc.rust-lang.org/stable/cargo[The Cargo Book]::
+    Everything about Cargo.
+
+link:https://rust-random.github.io/book[The Rust Rand Book]::
+    How to use the Rust Random number library.
